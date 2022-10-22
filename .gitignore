@@ -1,0 +1,5 @@
+.idea
+venv
+final_model.joblib
+request.json
+curl_request.txt
