@@ -1,0 +1,8 @@
+{
+    "age" : 23,
+    "credit_amount" : 2000,
+    "duration" : 12,
+    "sex" : "male",
+    "purpose" : "education",
+    "housing" : "own"
+}
